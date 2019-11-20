@@ -1,2 +1,3 @@
 # Twitter_data_processing
-Extract tweets using Twitter's REST APIs and perform sentiment analysis on the tweets.
+1. Extracted tweets using Twitter's REST APIs.
+2. Predicted sentiment score of Netflix shows based on polarity and subjectivity of their tweets to assess their genres & gauge public sentiment.
